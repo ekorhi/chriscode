@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(6, 73, 68, 0);
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    color:rgb(153, 80, 222);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+h3 {
+    color: rgb(153, 80, 222);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+p {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #dde9f3;
+    width: 80%;
+    margin: 0 auto;
+}
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+tr #desc {
+    text-align: left;
+    width: 70%;
+}
+.tableheading {
+    background-color: rgb(66, 59, 59);
+    color: rgba(6, 73, 68, 0);
+}
+.name {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#text-alignvalue, #font-weightvalue, #colorvalue {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
